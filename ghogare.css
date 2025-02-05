@@ -1,0 +1,33 @@
+
+body{
+    background-color:rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+    background-color: red;
+}
+
+.first{
+    height:300px;
+    width: 400px;
+    text-align: center;
+     background-image:linear-gradient( yellow,pink);
+}
+.second{
+    height: 300px;
+    width: 400px;
+    text-align: center;
+    background-image: radial-gradient(circle,red,orange,green);
+ margin-left: 500px;
+ margin-top: -320px;
+
+}
+.third{
+    height: 300px;
+    width: 400px;
+    text-align: center;
+    background-image:conic-gradient(pink,blue,red,green);
+    border-radius: 50%;
+    margin-left: 1000px;
+    margin-top: -320px;
+}
