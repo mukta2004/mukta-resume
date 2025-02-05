@@ -1,0 +1,27 @@
+.top{
+    height: 100px;
+    width: 400px;
+    background-color: orangered;
+}
+.middle{
+    height: 100px;
+    width: 400px;
+    background-color: white;
+    
+}
+.bottom{
+    height: 100px;
+    width: 400px;
+    background-color: green;
+}
+img{
+    margin-left:150px;
+}
+.line{
+    border-left-style: solid;
+    height: 700px;
+   border-width: 5px;
+}
+BODY{
+    margin-left: 600px;
+}
